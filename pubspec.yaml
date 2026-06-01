@@ -1,5 +1,5 @@
 name: form_builder_autocomplete
-description: "form_builder_autocomplete"
+description: An advanced Autocomplete input extension widget for Flutter FormBuilder, supporting type-safe predictive text filtering and async data fetching.
 version: 0.9.0
 resolution: workspace
 homepage: https://o7planning.github.io
